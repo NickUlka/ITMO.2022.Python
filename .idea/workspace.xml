@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2973e11e-8c77-4306-8c0a-eefeecee59e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_p1_tasks/Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_p2__Data_Operations/Tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_p1_tasks/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_p2__Data_Operations/Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_p1_tasks/Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_p2__Data_Operations/Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_p1_tasks/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_p2__Data_Operations/Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_p1_tasks/Tuples.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +43,11 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\ITMO.2022.Python" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +57,18 @@
       <option name="presentableId" value="Default" />
       <updated>1669303117363</updated>
     </task>
+    <task id="LOCAL-00001" summary="new labs added">
+      <created>1669466004256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669466004256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new labs added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new labs added" />
   </component>
 </project>
