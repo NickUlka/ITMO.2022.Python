@@ -1,3 +1,4 @@
+import sys
 from random import randint
 import time
 
@@ -37,6 +38,7 @@ def win_in_one_game(n1, n2):
 
 
 def scores():
+    """Total score of all games"""
     scores11 = scores22 = 0
     for i in range(5):
         scores1, scores2 = win_in_one_game(throw_the_dice(gamer1), (throw_the_dice(gamer2)))
@@ -56,6 +58,7 @@ def total_winner(scor1, scor2):
     else:
         print("В итоге победила дружба! Счет: ", scor1,
               " : ", scor2)
+    sys.exit()
 
 
 scored1, scored2 = scores()

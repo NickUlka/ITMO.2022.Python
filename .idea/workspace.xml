@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2973e11e-8c77-4306-8c0a-eefeecee59e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_p2__Data_Operations/Tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_p1_tasks/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_p2__Data_Operations/Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_p1_tasks/Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_p2__Data_Operations/Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_p1_tasks/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_p2__Data_Operations/Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_p1_tasks/Tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_p5__Functions/functions_in_one_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_p5__Functions/functions_in_one_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +60,26 @@
       <option name="project" value="LOCAL" />
       <updated>1669466004256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="my_p2345_tasks">
+      <created>1669491806996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669491806996</updated>
+    </task>
+    <task id="LOCAL-00003" summary="my_p2345_tasks">
+      <created>1669491838922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669491838922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new labs added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new labs added" />
+    <MESSAGE value="my_p2345_tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="my_p2345_tasks" />
   </component>
 </project>
